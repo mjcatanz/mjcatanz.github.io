@@ -1,7 +1,8 @@
 ---
 layout: page
-use-site-title:true
+title: Michael Catanzaro
 ---
+# Michael J. Catanzaro
 
 ### Assistant Professor, [Mathematics](https://math.iastate.edu), [Iowa State University](https://iastate.edu)
 
