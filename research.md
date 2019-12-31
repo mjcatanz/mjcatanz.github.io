@@ -1,22 +1,19 @@
 ---
-title:
+title: Research interests
 layout: page
+subtitle: Applied algebraic topology
 ---
-# Michael J. Catanzaro 
+My research interests surround algebraic topology with an emphasis on applications and mathematical physics. I try to answer questions in topology and physics by using tools from the other. Below is a list and quick synopsis of research projects I have been fortunate enough to work on. A more detailed research summary can be found here.
+ 
 
-### Assistant Professor, [Mathematics](https://math.iastate.edu), [Iowa State University](https://iastate.edu)
+### Multiparameter persistence
+As a postdoc, I began work on geometric models for studying multiparameter persistence. One of the first examples of ordinary persistence arose from studying the sub-level sets of a Morse function. Together with Peter Bubenik, we propose looking at generic families of Morse functions to study multiparameter persistent homology. Using tools from geometric topology, we attempt to build a decomposition of the assoicated multiparameter persistence module, analogous to the barcode. 
 
-### Employment
-* Assistant Professor, Iowa State University, 2018 - present.
-* Postdoctoral Research Associate, University of Florida, 2016 - 2018. Mentor: Dr. Peter Bubenik.
+### Persistent homology for task modulation using fMRI
+Certain types of imaging data, like fMRI, naturally lend themselves to analysis using topological methods. The acquisition of an fMRI signal breaks a region of interest up into three-dimensional voxels. This voxel structure can be used to model the region by a cubical complex, a topological object which is amenable to efficient homological calculations. This space acquires a natural filtration via the fMRI signal, and so the methods of topological data analysis are readily availbale. Using this set-up, we are currently working on understanding how task modulation in the ACC can be understood using fMRI through the lens of persistent homology. This project is joint with Vaibhav Diwadkar, Sam Rizzo, and Peter Bubenik.
 
-### Education
-* Ph.D. Mathematics, [Wayne State University](https://math.wayne.edu), 2016. Advisors:  Dr. John R. Klein, Department of Mathematics, and Dr. Vladimir Y. Chernyak, Department of Chemistry.
-* M.A. Mathematics, [Wayne State University](https://math.wayne.edu), 2011. Advisor: Dr. Robert R. Bruner, Department of Mathematics. 
-* B.S. Physics, Wayne State University, 2010.
-* B.S. Mathematics, Wayne State University, 2010.
+### Stochastic Currents
 
-### Research Interests
-* Topological Data Analysis, multiparameter persistence, applications.
-* Morse theory, Cerf theory, combinatorial Hodge theory.
-* Stochastic currents, random walks.
+### Exciton Scattering
+
+### FP Mods
