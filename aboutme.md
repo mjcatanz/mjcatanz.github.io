@@ -7,11 +7,11 @@ use-site-title:true
 
 ### Employment
 * Assistant Professor, Iowa State University, 2018 - present.
-* Postdoctoral Research Associate, University of Florida, 2016 - 2018. Mentor: Dr. Peter Bubenik.
+* Postdoctoral Research Associate, University of Florida, 2016 - 2018. Mentor: [Dr. Peter Bubenik](https://people.clas.ufl.edu/peterbubenik/).
 
 ### Education
-* Ph.D. Mathematics, [Wayne State University](https://math.wayne.edu), 2016. Advisors:  Dr. John R. Klein, Department of Mathematics, and Dr. Vladimir Y. Chernyak, Department of Chemistry.
-* M.A. Mathematics, [Wayne State University](https://math.wayne.edu), 2011. Advisor: Dr. Robert R. Bruner, Department of Mathematics. 
+* Ph.D. Mathematics, [Wayne State University](https://math.wayne.edu), 2016. Advisors:  [Dr. John R. Klein](http://www.klein.wayne.edu), Department of Mathematics, and [Dr. Vladimir Y. Chernyak](https://clasprofiles.wayne.edu/profile/av3651), Department of Chemistry.
+* M.A. Mathematics, Wayne State University, 2011. Advisor: [Dr. Robert R. Bruner](http://www.rrb.wayne.edu), Department of Mathematics. 
 * B.S. Physics, Wayne State University, 2010.
 * B.S. Mathematics, Wayne State University, 2010.
 
