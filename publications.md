@@ -44,3 +44,5 @@ Here is a list of submitted manuscripts and published articles I have worked on.
 
 ## Expository
 The following is an expository paper I wrote explaining the types of stochastic processes I am interested in studying.
+
+* Catanzaro, Michael J. [A user's guide: Dynamics and fluctuations of cellular cycles on CW complexes](https://mathusersguides.com/enchiridion-vol-2-2016-mike-catanzaro/).
