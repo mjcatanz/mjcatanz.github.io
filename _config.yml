@@ -20,9 +20,9 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "research"
-    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    # - Learn markdown: "http://www.markdowntutorial.com/"
+  Research: 
+    - Research Interests: "research"
+    - Publications: "publications"
   Teaching: "teaching"
   CV/About Me: "aboutme"
 
@@ -74,6 +74,7 @@ social-network-links:
 #  twitter: daattali
 #  reddit: yourname
   linkedin: michael-catanzaro-a8335547
+  gscholar: crt4Cl8AAAAJ
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
