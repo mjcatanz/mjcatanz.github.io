@@ -8,11 +8,11 @@ My research interests surround algebraic topology with an emphasis on applicatio
 ### Multiparameter persistence
 
 ![Multiparameter Persistence](/img/multip_bar.png){:style="float: left;margin-right: 7px;margin-bottom: 7px;width:30%"}
-As a postdoc, I began work on geometric models for studying multiparameter persistence. One of the first examples of ordinary persistence arose from studying the sub-level sets of a Morse function. Together with Peter Bubenik, we propose looking at generic families of Morse functions to study multiparameter persistent homology. Using tools from geometric topology, we attempt to build a decomposition of the assoicated multiparameter persistence module, analogous to the barcode. 
+As a postdoc, I began work on geometric models for studying multiparameter persistence. One of the first examples of ordinary persistence arose from studying the sub-level sets of a Morse function. Together with Peter Bubenik, we propose looking at generic families of Morse functions to study multiparameter persistent homology. Using tools from geometric topology, we attempt to build a decomposition of the associated multiparameter persistence module, analogous to the barcode. 
 
 ### Persistent homology for task modulation using fMRI
 ![ACC](/img/acc.png){:style="float: left;margin-right: 7px;width:30%"}
-Certain types of imaging data, like fMRI, naturally lend themselves to analysis using topological methods. The acquisition of an fMRI signal breaks a region of interest up into three-dimensional voxels. This voxel structure can be used to model the region by a cubical complex, a topological object which is amenable to efficient homological calculations. This space acquires a natural filtration via the fMRI signal, and so the methods of topological data analysis are readily availbale. Using this set-up, we are currently working on understanding how task modulation in the ACC can be understood using fMRI through the lens of persistent homology. This project is joint with Vaibhav Diwadkar, Sam Rizzo, and Peter Bubenik.
+Certain types of imaging data, like fMRI, naturally lend themselves to analysis using topological methods. The acquisition of an fMRI signal breaks a region of interest up into three-dimensional voxels. This voxel structure can be used to model the region by a cubical complex, a topological object which is amenable to efficient homological calculations. This space acquires a natural filtration via the fMRI signal, and so the methods of topological data analysis are readily available. Using this set-up, we are currently working on understanding how task modulation in the ACC can be understood using fMRI through the lens of persistent homology. This project is joint with Vaibhav Diwadkar, Sam Rizzo, and Peter Bubenik.
 
 ### Stochastic Currents
 ![ACC](/img/torustest.png){:style="float: left;margin-right: 7px;margin-bottom: 7px;width:30%"}
@@ -28,7 +28,7 @@ Morse theory provides a simple yet powerful set of tools for understanding manif
 
 ### Exciton Scattering
 ![Graphical Perylene molecule](/img/exciton_pair.png){:style="float: left;margin-right: 7px;margin-bottom: 7px;width:30%"}
-Excitons are naturally occurring quasi-particles associated with the conversion of light to energy (e.g. photosynthesis). The number of such excitations in certain systems can be computed via a topological winding number in an index-like theorem.
+Excitons are naturally occurring quasi-particles associated with the conversion of light to energy (e.g. photosynthesis). This work applies algebraic topology to study and in particular, to count the number of such excitations in certain systems. We formulate this problem as a non-standard intersection theory problem of stratified spaces. In particular, we study intersections of a smooth curve with a stratified non-manifold inside the unitary group. Each intersection is weighted with a multiplicity, and the number of excitons can be computed via a topological winding number with an index-like theorem. 
 
 ### FP Mods
 ![A module over the mod 2 Steenrod algebra](/img/Amod.png){:style="float: left;margin-right: 7px;margin-bottom: 7px;width:30%"}
