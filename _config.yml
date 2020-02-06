@@ -23,7 +23,7 @@ navbar-links:
   Research: 
     - Research Interests: "research"
     - Publications: "publications"
-  Teaching: "teaching"
+ #  Teaching: "teaching"
   CV/About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
