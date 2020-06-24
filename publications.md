@@ -5,7 +5,7 @@ layout: page
 
 Here is a list of submitted manuscripts and published articles I have worked on.
 
-[My google scholar page](https://scholar.google.com/citations?user=crt4Cl8AAAAJ&hl=en)
+[My google scholar page](https://scholar.google.com/citations?user=Dt4B9ToAAAAJ)
 
 ### Exploring moduli spaces of Morse functions
 * Catanzaro, Michael J.; Curry, Justin; Fasy, Brittany Terese; Lazovskis, Janis; Malen, Greg; Riess, Hans; Wang, Bei; Zabka, Matthew.  Moduli Spaces of Morse Functions for Persistence. Available on the arXiv at [arXiv:1909.10623](https://arxiv.org/abs/1909.10623). Submitted.
