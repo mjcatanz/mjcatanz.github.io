@@ -8,7 +8,7 @@ Here is a list of submitted manuscripts and published articles I have worked on.
 [My google scholar page](https://scholar.google.com/citations?user=Dt4B9ToAAAAJ)
 
 ### Exploring moduli spaces of Morse functions
-* Catanzaro, Michael J.; Curry, Justin; Fasy, Brittany Terese; Lazovskis, Janis; Malen, Greg; Riess, Hans; Wang, Bei; Zabka, Matthew.  Moduli Spaces of Morse Functions for Persistence. Available on the arXiv at [arXiv:1909.10623](https://arxiv.org/abs/1909.10623). Submitted.
+* Catanzaro, Michael J.; Curry, Justin; Fasy, Brittany Terese; Lazovskis, Janis; Malen, Greg; Riess, Hans; Wang, Bei; Zabka, Matthew.  Moduli Spaces of Morse Functions for Persistence. Available on the arXiv at [arXiv:1909.10623](https://arxiv.org/abs/1909.10623). Published in the Journal of Applied and Computational Topology. Available through [Springer](http://link.springer.com/article/10.1007/s41468-020-00055-x).
 
 *  Catanzaro, Michael J.; Wang, Bei; Zabka, Matthew; Zhou, Youjia. MVF Designer: Design and Visualization of Morse Vector Fields. Available on the arXiv at [arXiv:1912.09580](https://arxiv.org/abs/1912.09580). Submitted.
 
