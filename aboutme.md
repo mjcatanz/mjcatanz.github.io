@@ -16,7 +16,7 @@ title: Michael J. Catanzaro
 * B.S. Mathematics, Wayne State University, 2010.
 
 ### Research Interests
-* Topological Data Analysis, multiparameter persistence, applications.
+* Topological Data Analysis, multiparameter persistence, deep learning.
 * Morse theory, Cerf theory, combinatorial Hodge theory.
 * Stochastic currents, random walks.
 

@@ -16,7 +16,7 @@ Here is a list of submitted manuscripts and published articles I have worked on.
 
 * Catanzaro, Michael J.; Zabka, Matthew J. A Model for Random Chain Complexes. Available on the arXiv at [arXiv:1901.00964](https://arxiv.org/abs/1901.00964). Submitted.
 
-### Stochastic Currents
+### Stochastic Currents and Markov CW chains
 * Catanzaro, Michael J.; Chernyak, Vladimir Y.; Klein, John R. [Stochastic Dynamics of Extended Objects in Driven Systems: I. Higher-Dimensional Currents in the Continuous Setting](https://doi.org/10.1016/j.chemphys.2016.08.021), Chemical Physics, **481** (2016), 5--18. Available on the arXiv at [arXiv:1609.00336](https://arxiv.org/abs/1609.00336).
 
 * Catanzaro, Michael J.; Chernyak, Vladimir Y.; Klein, John R. [Stochastic dynamics of extended objects in driven systems II: Current quantization in the low-temperature limit](https://doi.org/10.1016/j.chemphys.2016.08.021), Chemical Physics, **481** (2016), 19--27. Available on the arXiv at [arXiv:1609:00334](https://arxiv.org/abs/1609.00334).

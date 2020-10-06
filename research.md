@@ -2,7 +2,11 @@
 title: Research interests
 layout: page
 ---
-My research interests surround algebraic topology with an emphasis on applications and mathematical physics. I try to answer questions in topology and physics by using tools from the other. Below is a list and quick synopsis of research projects I have been fortunate enough to work on. A more detailed research summary can be found here.
+My research interests surround algebraic topology with an emphasis on
+applications and mathematical physics. I try to answer questions in topology
+and physics by using tools from the other. Below is a list and quick synopsis
+of research projects I have been fortunate enough to work on. A more detailed
+research summary can be found here.
  
 
 ### Multiparameter persistence
