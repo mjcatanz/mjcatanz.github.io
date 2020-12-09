@@ -1,5 +1,5 @@
 ---
-title: Research interests
+title: Research projects
 layout: page
 ---
 My research interests surround algebraic topology with an emphasis on
