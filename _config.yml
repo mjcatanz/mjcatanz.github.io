@@ -20,8 +20,9 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  Research: 
-    - Research Interests: "research"
+  Projects: 
+    - Research: "research"
+    - Software: "software"
     - Publications: "publications"
  #  Teaching: "teaching"
   CV/About Me: "aboutme"
