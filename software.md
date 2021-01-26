@@ -1,6 +1,7 @@
 ---
 title: Software projects
 layout: page
+
 ---
 
 Here is a list of software and code I have worked on.
